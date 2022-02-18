@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848178993098",
+    "project_id": "loginformfirebase-2eee8",
+    "storage_bucket": "loginformfirebase-2eee8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848178993098:android:2032423e41db30f5816133",
+        "android_client_info": {
+          "package_name": "com.example.loginformfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848178993098-2ahdo0vtp4m1t0srjhuagngud9iv8g7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVWfK6PnZhHdsqvwXcp8OMaVPnUih-QMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848178993098-2ahdo0vtp4m1t0srjhuagngud9iv8g7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
